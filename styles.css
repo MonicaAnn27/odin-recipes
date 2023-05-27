@@ -1,5 +1,8 @@
 * {
     background-color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200;
+
 }
 
 #bannerimage {
@@ -19,11 +22,6 @@ h1 {
     font-size: 48px;
 }
 
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
-   
-}
 
 p {
     
@@ -42,4 +40,11 @@ p {
 .recipelist {
     line-height: 1.5;
     font-size: 24px;
+}
+
+#ingredients {
+    line-height: 1.5;
+    font-size: 18px;
+    font-weight: 200;
+    background-color: palegoldenrod;
 }
