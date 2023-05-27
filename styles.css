@@ -6,6 +6,10 @@
     width: 100%;
     background-image: url(baking.jpg);
     height: 405px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 
   }
 
