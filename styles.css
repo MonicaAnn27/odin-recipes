@@ -16,7 +16,7 @@ h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 600;
     color: darkcyan;
-    font-size: 24;
+    font-size: 48;
 }
 
 body {
@@ -30,6 +30,7 @@ p {
 
 ul {
     line-height: 1.5;
+    font-size: 24;
 }
 
 .contents {
