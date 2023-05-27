@@ -21,6 +21,10 @@ h1 {
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+.contents {
     font-weight: 200;
     padding: 20%;
 }
