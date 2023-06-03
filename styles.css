@@ -42,6 +42,7 @@ p {
     background-color: cadetblue;
     padding: 10px;
     margin: auto;
+    width: 200px;
 }
 
 .ingredients {
