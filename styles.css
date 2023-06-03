@@ -38,7 +38,10 @@ p {
 
 .recipelist {
     line-height: 1.5;
-    font-size: 24px;
+    font-size: 44px;
+    background-color: cadetblue;
+    padding: 10px;
+    margin: auto;
 }
 
 .ingredients {
